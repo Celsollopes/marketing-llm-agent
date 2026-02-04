@@ -4,7 +4,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.34-FF4B4B?style=for-the-badge&logo=streamlit)
 ![LangChain](https://img.shields.io/badge/LangChain-0.1-green?style=for-the-badge)
 ![Llama 3](https://img.shields.io/badge/Model-Llama_3-blueviolet?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/Celsollopes/marketing-llm-agent)
 
 > **Project mkp01:** An intelligent digital marketing assistant capable of generating high-engagement social media posts using Large Language Models (LLMs).
 
@@ -84,6 +83,7 @@ cd marketing-llm-agent
 
 ---
 
-📄 **License**
+📄 **License** 
 
+![GitHub License](https://img.shields.io/github/license/Celsollopes/marketing-llm-agent)  
 _This project is open-source and available under the MIT License._
