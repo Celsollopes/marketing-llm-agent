@@ -13,7 +13,7 @@ This project is an **AI-powered Marketing Agent** designed to automate content c
 
 This is part of a broader initiative to build **8 Applied AI Projects** for different business sectors, demonstrating MLOps best practices and Agentic Workflows.
 
-### 🌟 Key Features 
+### ✔️ Key Features 
 * **Multi-Platform Support:** Generates optimized content for Instagram, LinkedIn, Twitter/X, and Blogs.
 * **Tone Customization:** Adjusts the writing style (Professional, Casual, Persuasive, etc.).
 * **Structured Output:** Delivers Headlines, Body Copy, Hashtags, and CTAs automatically.
@@ -51,7 +51,7 @@ Follow these steps to run the project locally.
 1. **Clone the repository:**
 
 ```text
-    git clone [https://github.com/celsollopes/marketing-llm-agent.git]  (https://github.com/celsollopes/marketing-llm-agent.git)
+    git clone https://github.com/celsollopes/marketing-llm-agent.git  
 ```
 cd marketing-llm-agent
 
